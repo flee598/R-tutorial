@@ -2,7 +2,8 @@
 title: "Introduction to R, RStudio and the Tidyverse"
 author: ""
 date: "2023"
-output: html
+output: html_document
+output-dir: docs
 ---
 
 ```{r setup, include=FALSE}
@@ -36,7 +37,7 @@ We will need:
 
 <br/>
 ```{r echo = F}
-knitr::include_graphics("./figures/file_structure.png")
+knitr::include_graphics("./assets/file_structure.png")
 ```
 <br/>
 
