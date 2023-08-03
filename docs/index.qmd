@@ -48,6 +48,8 @@ File paths and accessing files:
 -   `"./scripts/my_helper_functions.r"`
 
 
+<img src="./assets/file_structure.png"></div>
+
 
 ## Gettin started
 
@@ -91,6 +93,11 @@ Set up a script
 # END --------------------------------------------------------------------------
 ```
 
+
+```{r}
+getwd()
+
+```
 
 And an example with some simple code:
 ```{r eval=FALSE}
