@@ -36,9 +36,7 @@ We will need:
     - add folders: `data`, `figures`, `scripts` ...
 
 <br/>
-```{r echo = F}
-knitr::include_graphics("./assets/file_structure.png")
-```
+![](assets/file_structure.png)
 <br/>
 
 File paths and accessing files:
@@ -48,7 +46,7 @@ File paths and accessing files:
 -   `"./scripts/my_helper_functions.r"`
 
 
-<img src="./assets/file_structure.png"></div>
+
 
 
 ## Gettin started
